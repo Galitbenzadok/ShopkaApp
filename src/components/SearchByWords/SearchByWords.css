@@ -1,0 +1,28 @@
+
+
+  #searchText {
+    height: 38px;
+    width: 650px; 
+    border-radius: 99px;
+    background: #ededf0;
+    position: absolute;
+    top: -197px;
+    left: 240px;
+    bottom: 0px;
+    padding-left: 40px;
+    background-image: url("../../assets/search1.png");
+    background-repeat: no-repeat;
+    background-position: 1ch;
+}
+
+.searchIcon {
+  height: 17.5px;
+  width: 17.5px;
+  left: 7px;
+  top: 7px;
+  border-radius: 0px;
+  background: #787885;
+  position: absolute;
+  left: calc(50% - 17.5px / 2 - 0.25px);
+  top: calc(50% - 17.5px / 2 - 0.25px);
+}

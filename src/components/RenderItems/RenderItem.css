@@ -1,0 +1,182 @@
+html,
+body {  
+  background: #ffffff;  
+}
+
+
+.mainRender { 
+  width: 1200px;
+  height: 1400px;
+  vertical-align: top;  
+  top: 100px;
+  border-radius: 8px;
+  position: relative;
+  background: #ffffff;
+  box-shadow: 0px 1px 2px rgba(58, 58, 68, 0.24),
+    0px 2px 4px rgba(90, 91, 106, 0.24);
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 300px));
+  grid-template-rows: repeat(auto-fill, minmax(450px, 470px));
+  padding-right: 120px;
+  padding-left: 30px;
+}
+
+.divCard {
+  height: 472px;
+  width: 258px;
+  left: 0px;
+  top: 0px;
+  right: 0px; 
+  bottom: 0px;
+  margin-left: 15%;  
+  position: relative;  
+  background: #ffffff;
+  border: 1px solid #ffffff;
+  border-radius: 4px;
+}
+
+.itemId {
+  display: none;
+}
+
+.itemName {
+  height: 74px;
+  width: 226px;
+  left: 16px;
+  top: 240px;
+  border-radius: nullpx;
+  font-family: Inter;
+  font-style: normal;
+  line-height: 24px;
+  letter-spacing: 0.0275em;
+  text-align: left;
+  position: absolute;
+  right: 16px;
+  bottom: 146px;
+  font-weight: bold;
+  font-size: 17px;
+  color: #19191d;
+}
+.itemImg {
+  height: 224px;
+  width: 226px;
+  left: 16px;
+  right: 16px;
+  top: 16px;
+  border-radius: 4px;
+  position: absolute;
+}
+
+.itemDescription {
+  height: 74px;
+  width: 226px;
+  left: 16px;
+  border-radius: nullpx;
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.0275em;
+  text-align: left;
+  position: absolute;
+  right: 16px;
+  top: 262px;
+  bottom: 146px;
+  font-family: Inter;
+  color: #19191d;
+}
+
+.itemPrice {
+  height: 36px;
+  width: 226px;
+  left: 16px;
+  top: 334px;
+  border-radius: nullpx;
+  font-family: Inter;
+  font-size: 24px;
+  line-height: 36px;
+  letter-spacing: 0em;
+  text-align: left;
+  position: absolute;
+  right: 16px;
+  bottom: 102px;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 150%;
+  display: flex;
+  align-items: center;
+  color: rgba(0, 0, 0, 0.87);
+}
+
+.itemShipping {
+  height: 41px;
+  width: 226px;
+  left: 16px;
+  top: 378px;
+  border-radius: nullpx;
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0.018em;
+  text-align: left;
+  position: absolute;
+  right: 16px;
+  bottom: 53px;
+  display: flex;
+  align-items: center;
+  color: #787885;
+}
+
+.itemRate {
+  position: absolute;
+  width: 11.07px;
+  height: 11.07px;
+  left: calc(7% - 11.07px / 2 + 0px);
+  top: calc(90% - 11.07px / 2 - 0px);
+}
+
+.itemWatch {
+  position: absolute;
+  height: 24px;
+  left: calc(60% - 11.07px / 2 + 0px);
+  right: 12px;
+  top: calc(90% - 24px / 2);
+}
+
+.watchListDiv {
+  position: absolute; 
+  right: 280px;  
+  top: -190px;
+}
+
+.watchBut {
+  border: none;
+  cursor: pointer;
+  position: absolute;
+  height: 30px;
+  width: 50px;
+  left: calc(30% - 11.07px / 2 + 0px);
+  right: 0px;
+  top: calc(90% - 24px / 2);
+  background-color: white;
+}
+
+.addMessage {
+  margin-top: 100px;
+  margin-left: 100px;
+  font-size: 30px;
+}
+
+.stripImg {
+  position: absolute;
+  top: 0px;
+  left: 320px;
+  width: 70%;
+}
+
+
+
+

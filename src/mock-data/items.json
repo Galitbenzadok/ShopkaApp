@@ -1,0 +1,65 @@
+[
+    {
+        "id": "1",
+        "name": "Leather botinki",
+        "img": "./item.png",
+        "description": "Lee Pucker design. Leather botinki for handsome designers. Free shipping.",
+        "price": "13.95$",
+        "shipping": "Eligible for Shipping To Mars or somewhere else",
+        "rate": "./stars.png",  
+        "watch": "./Watch.png"
+    },  
+    {
+        "id": "2",
+        "name": "Vintage Typewriter",
+        "img": "./typing.png",
+        "description": "Vintage Typewriter to post awesome stories about UI design and webdev.",
+        "price": "20.32$",
+        "shipping": "Eligible for Shipping To Mars or somewhere else",
+        "rate": "./stars.png",  
+        "watch": "./Watch.png"
+    },
+    {
+        "id": "3",
+        "name": "Prototyping items",
+        "img": "./pink.png",
+        "description": "Prototyping items to create a lot if useless things...",
+        "price": "15.32$",
+        "shipping": "Eligible for Shipping To Mars or somewhere else",
+        "rate": "./stars.png",  
+        "watch": "./Watch.png"
+    },
+    {
+        "id": "4",
+        "name": "Leather botinki",
+        "img": "./item.png",
+        "description": "Lee Pucker design. Leather botinki for handsome designers. Free shipping.",
+        "price": "13.95$",
+        "shipping": "Eligible for Shipping To Mars or somewhere else",
+        "rate": "./stars.png",  
+        "watch": "./Watch.png"
+    }, 
+    {
+        "id": "5",
+        "name": "Vintage Typewriter",
+        "img": "./typing.png",
+        "description": "Vintage Typewriter to post awesome stories about UI design and webdev.",
+        "price": "20.32$",
+        "shipping": "Eligible for Shipping To Mars or somewhere else",
+        "rate": "./stars.png",  
+        "watch": "./Watch.png"
+    },
+    {
+        "id": "6",
+        "name": "Prototyping items",
+        "img": "./pink.png",
+        "description": "Prototyping items to create a lot if useless things...",
+        "price": "15.32$",
+        "shipping": "Eligible for Shipping To Mars or somewhere else",
+        "rate": "./stars.png",  
+        "watch": "./Watch.png"
+    }
+]
+
+    
+

@@ -1,0 +1,18 @@
+
+.leftLogo {
+  float: left;
+  padding-left: 25px;
+  padding-top: 25px;
+}
+
+.user {
+  float: right;
+  padding-right: 105px;
+  padding-top: 35px;  
+}
+
+.topBar{
+  height: 105px;
+}
+
+

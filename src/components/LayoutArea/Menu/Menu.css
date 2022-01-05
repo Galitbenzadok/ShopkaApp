@@ -1,0 +1,12 @@
+.Menu {
+	display: flex;
+    flex-direction: column;
+}
+
+.Menu > * {
+    margin-top: 0px;
+}
+
+.asaidImg {
+    width: 130%;
+}
