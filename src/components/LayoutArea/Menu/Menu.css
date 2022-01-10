@@ -1,12 +1,45 @@
 .Menu {
 	display: flex;
     flex-direction: column;
+    position: absolute;
+    top: 255px;
+    color: grey;
+
 }
 
-.Menu > * {
-    margin-top: 0px;
+a {
+height: 24px;
+margin-left: 68px;
+margin-right: 8px;
+margin-bottom: 3px;
+font-size: 16px;
+line-height: 150%;
+align-items: center;
+letter-spacing: 0.0275em;
+text-decoration: none;
+color: grey;
+}
+
+h3 {
+margin-top: 10px;
+margin-left: 48px;
+font-weight: 700;
+}
+
+h2 {
+    margin-left: 38px;
 }
 
 .asaidImg {
     width: 130%;
+}
+
+.menuImg {
+    width: 100px;
+}
+
+.indentIcon {
+    width: 15px;
+    height: 15px;
+    margin-right: 2px;
 }
